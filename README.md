@@ -1,4 +1,4 @@
-# 🎓 AI-LMS Platform
+# 🎓 AI-LMS Platform(NKMKB)
 
 A comprehensive Learning Management System with AI-powered features, coding challenges, and personalized learning plans.
 
